@@ -1,4 +1,8 @@
-# Hi, I’m Galal
+# Let us have fun.
+
+![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+## Hi, I’m Galal
 
 I know that I am self-motivated. I give my all to any project and I am always
 looking ahead to the next task at hand. Successfully completing one project and
