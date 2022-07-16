@@ -1,5 +1,7 @@
 # Let us have fun
 
+![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 ## Hi, I’m Galal
 
 I know that I am self-motivated. I give my all to any project and I am always
@@ -9,9 +11,9 @@ truly enjoy learning.
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=galalkoro98&theme=dracula)
 
-- I currently  follow course by *Hack Your Future Belgium* as front-end web developer.
-  
 ## My current goals to achieve
+
+- I currently  follow course by **Hack Your Future Belgium** as front-end web developer.
 
 ![Agile Development](/imgaes/agile.png)
 ![UX/UI DESIGN](/imgaes/ux.png)
@@ -23,7 +25,7 @@ truly enjoy learning.
 ![Component Based Design /React](/imgaes/science.png)
 
 - 👯 I’m looking to collaborate on github project.
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
 - 💁I am more than happy to help you if you are facing problem with operating systems.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
