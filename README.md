@@ -11,11 +11,9 @@ truly enjoy learning.
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=galalkoro98&theme=dracula)
 
-
-
-## My current goals to achieve
-
 - I currently  follow course by **Hack Your Future Belgium** as front-end web developer.
+  
+## My current goals to achieve
 
 ![Agile Development](/imgaes/agile.png)
 ![UX/UI DESIGN](/imgaes/ux.png)
