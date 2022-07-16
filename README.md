@@ -1,6 +1,4 @@
-# Let us have fun.
-
-![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+# Let us have fun
 
 ## Hi, I’m Galal
 
@@ -9,7 +7,7 @@ looking ahead to the next task at hand. Successfully completing one project and
 moving on to the next one; is very exciting for me. I am passionate about IT
 truly enjoy learning.
 
-![github truphy](https://github-profile-trophy.vercel.app/?username=galalkoro98&theme=dracula)
+![github trophy](https://github-profile-trophy.vercel.app/?username=galalkoro98&theme=dracula)
 
 ## My current goals to achieve:
 
@@ -20,13 +18,13 @@ truly enjoy learning.
 ![JavaScript](/imgaes/javascript.png)
 ![Behavior, strategy, implementation](/imgaes/implementation.png)
 ![Separation of Concern](/imgaes/separation.png)
-![Asychronous Programming](/imgaes/asyc.png)
+![Asynchronous Programming](/imgaes/asyc.png)
 ![Headless CMS](/imgaes/cms.png)
 ![Component Based Design /React](/imgaes/science.png)
 
-- 👯 I’m looking to collaborate on github progect.
+- 👯 I’m looking to collaborate on github project.
 - 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
-- 💁I am more than happy to help you if you are facing problem with oprating systems.
+- 💁I am more than happy to help you if you are facing problem with operating systems.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)
