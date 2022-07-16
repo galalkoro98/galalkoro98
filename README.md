@@ -11,6 +11,8 @@ truly enjoy learning.
 
 ![github trophy](https://github-profile-trophy.vercel.app/?username=galalkoro98&theme=dracula)
 
+
+
 ## My current goals to achieve
 
 - I currently  follow course by **Hack Your Future Belgium** as front-end web developer.
@@ -26,7 +28,7 @@ truly enjoy learning.
 
 - 👯 I’m looking to collaborate on github project.
 - 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/galal-bio/)
-- 💁I am more than happy to help you if you are facing problem with operating systems.
+- 💁 operating system solve problems.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/windows-white?style=for-the-badge&logo=windows&logoColor=blue)
