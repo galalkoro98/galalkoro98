@@ -25,7 +25,7 @@ truly enjoy learning.
 ![Component Based Design /React](/imgaes/science.png)
 
 - 👯 I’m looking to collaborate on github project.
-- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/galal-koro-1726891a9/) [my page](https://galalkoro98.github.io/portfolio/)
+- 📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/galal-koro-1726891a9/) & [my page](https://galalkoro98.github.io/portfolio/)
 - 💁 operating system solve problems.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
