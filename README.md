@@ -13,7 +13,7 @@ truly enjoy learning.
 
 - I complete set of modules by **Hack Your Future Belgium** as web developer.
   
-## My current goals to achieve
+## I have achieved the following goals:-
 
 ![Agile Development](/imgaes/agile.png)
 ![UX/UI DESIGN](/imgaes/ux.png)
